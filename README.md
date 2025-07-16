@@ -7,4 +7,4 @@
 5. Datatype<br>
 6. Function<br>
 7. Loop<br>
-8. Variabl<br>
+8. Variable<br>
