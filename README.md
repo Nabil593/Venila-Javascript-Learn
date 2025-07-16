@@ -1,10 +1,10 @@
 # Tihs is my Venila Javascript learning all filles
 <br>
-1. Comparijon
-2. Conditions
-3. Array
-4. Object
-5. Datatype
-6. Function
-7. Loop
-8. Variable
+1. Comparijon<br>
+2. Conditions<br>
+3. Array<br>
+4. Object<br>
+5. Datatype<br>
+6. Function<br>
+7. Loop<br>
+8. Variabl<br>
